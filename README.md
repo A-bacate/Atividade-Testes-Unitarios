@@ -20,10 +20,14 @@ dividir (lançar erro ao tentar dividir por zero)
 potência
 média
 porcentagem
-Instruções para rodar os testes
+
+
+# Instruções para rodar os testes:
 
 Criar projeto: npm init -y
+
 Instalar Jest: npm install jest
+
 Atualizar o package.json adicionando:
  
 "scripts": {
