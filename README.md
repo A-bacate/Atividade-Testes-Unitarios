@@ -35,3 +35,7 @@ Atualizar o package.json adicionando:
 }
 
 Rodar os testes: npm test
+
+# NPM para rodar:
+
+npm install jest prompt-sync
